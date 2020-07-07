@@ -1,0 +1,2 @@
+# amoocon
+mini contest
